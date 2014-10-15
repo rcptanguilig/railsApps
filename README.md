@@ -1,0 +1,4 @@
+railsApps
+=========
+
+trying out RoR
